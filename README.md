@@ -4,4 +4,4 @@
 ドラッグ＆ドロップでファイルが開かないときは以下を実行してください。
 pip install tkinterdnd2
 
-ソースはtenteke_ditor.py
+ソースはtenteke_editor.py
